@@ -1,8 +1,10 @@
 # number-conversions
 
-hello springfield high school pltw CSE students,
+hello Springfield High School pltw CSE students,
 I have published this code just for you,
 your welcome :)
+
+I hope Mr.Davis dosen't get mad
 
 Challenge:
 Formatting raw numbers
