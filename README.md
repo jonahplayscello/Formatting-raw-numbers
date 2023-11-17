@@ -1,4 +1,4 @@
-# number-conversions-
+# number-conversions
 
 Challenge
 Formatting raw numbers
